@@ -6,3 +6,4 @@ Branch
 test rebase
 123
 second try commit 5
+second try commit 6
